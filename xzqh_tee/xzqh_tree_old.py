@@ -1,3 +1,4 @@
+#这是一开始写的程序递归在里面，但是很粗糙
 import requests
 import bs4
 import re
